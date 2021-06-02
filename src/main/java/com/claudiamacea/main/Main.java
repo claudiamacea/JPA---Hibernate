@@ -48,5 +48,6 @@ public class Main {
         System.out.println("commit3");
         System.out.println("commit4");
         System.out.println("commit6");
+        System.out.println("commit7");
     }
 }
